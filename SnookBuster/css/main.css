@@ -1,18 +1,18 @@
 /*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/ */
 
 html {
-    color: #222;
+    color: #223;
     font-size: 1em;
     line-height: 1.4;
 }
 
 ::-moz-selection {
-    background: #b3d4fc;
+    background: #b3d4fd;
     text-shadow: none;
 }
 
 ::selection {
-    background: #b3d4fc;
+    background: #b3d4fd;
     text-shadow: none;
 }
 
@@ -47,7 +47,7 @@ textarea {
 .browserupgrade {
     margin: 0.2em 0;
     background: #ccc;
-    color: #0b72ef;
+    color: #0b72ed;
     padding: 0.2em 0;
 }
 
@@ -58,6 +58,7 @@ textarea {
 
 body {
     font: 16px/26px Helvetica, Helvetica Neue, Arial;
+    background-image: url("../img/oceanpic.jpg");
 }
 
 .wrapper {
@@ -65,23 +66,23 @@ body {
     margin: 0 5%;
 }
 
-/* ===================
-    ALL: Orange Theme
-   =================== */
 
+.main-container {
+     background-image: url("../img/oceanpic.jpg");
+}
 .header-container {
-    border-bottom: 20px solid #e44d26;
+    border-bottom: 20px solid #0b72ed;
 }
 
 .footer-container,
 .main aside {
-    border-top: 20px solid #e44d26;
+    border-top: 20px solid #578ac7;
 }
 
 .header-container,
 .footer-container,
 .main aside {
-    background: #f16529;
+    background: #2d5c84;
 }
 
 .title {
@@ -108,7 +109,7 @@ nav a {
     font-weight: bold;
 
     color: white;
-    background: #e44d26;
+    background: #0b72ed;
 }
 
 nav a:hover,
@@ -138,7 +139,7 @@ nav a:hover {
 }
 
 .footer-container footer {
-    color: white;
+    color: cadetblue;
     padding: 20px 0;
 }
 
