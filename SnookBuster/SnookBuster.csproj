@@ -249,8 +249,6 @@
     <Content Include="browserconfig.xml" />
     <Content Include="crossdomain.xml" />
     <Content Include="favicon.ico" />
-    <Content Include="humans.txt" />
-    <Content Include="robots.txt" />
     <Content Include="tile-wide.png" />
     <Content Include="tile.png" />
     <Content Include="Trips.html" />
